@@ -1,4 +1,4 @@
-API_Number,Longitude,Latitude,Well_Name,Barrels of Oil Produced,MCF of Gas Produced,Well Status,Well Type,Closest City
+API_Number,longitude,latitude,Well_Name,oil_production,gas_production,well_status,well_type,closest_city
 33-053-02102,-103.6024878,48.06879056,BASIC GAME AND FISH 34-3,,,Inactive,Oil & Gas,Williston
 33-053-03944,-103.6022597,48.07918389,Magnum 2-36-25H,459,670,Active,Oil & Gas,Williston
 33-053-06012,-103.6024881,48.06878722,CHALMERS WADE FEDERAL 5301 44-24 12TXR,366,382,Active,Oil & Gas,Williston
